@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jwt-token-auth/static/css/main.ff02f4b5.css",
+    "main.js": "/jwt-token-auth/static/js/main.fa946f3e.js",
+    "index.html": "/jwt-token-auth/index.html",
+    "main.ff02f4b5.css.map": "/jwt-token-auth/static/css/main.ff02f4b5.css.map",
+    "main.fa946f3e.js.map": "/jwt-token-auth/static/js/main.fa946f3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.fa946f3e.js"
+  ]
+}
